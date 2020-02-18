@@ -45,7 +45,7 @@ end
 That file begins with a module declaration which is similar to the [action naming structure](/actions/overview).
 The only difference is that we use `Views` module instead of `Controllers`.
 **All the views are nested under it.**
-This module is generated at the runtime for us, when the application starts.
+This module is generated at runtime for us, when the application starts.
 
 <p class="convention">
   For a given application named <code>Web</code>, views are available under <code>Web::Views</code>.
